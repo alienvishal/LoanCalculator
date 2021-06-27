@@ -1,4 +1,4 @@
-//Listern Form Submit
+//Listern to Form Submit
 document.querySelector('#loan-form').addEventListener('submit', function(e){
   
   // Hide Result
